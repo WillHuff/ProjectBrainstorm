@@ -1,17 +1,22 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+[RequireComponent(typeof(AudioSource))]
 
 public class ShootForward : MonoBehaviour {
+
 	public Rigidbody bullet;
 	public float velocity = 10.0f;
 
 	// Update is called once per frame
 	void Update () {
-		if(Input.GetButtonDown("Fire1")
+		if (Input.GetButtonDown ("Fire1")) 
 		{
-				Rigidbody newBullet = Instantiate(bullet, transform.position, transform.rotation);
-				newBullet.AddForce(transform.forward.velocity, ForceMode.VelocityChange);
+			Rigidbody newBullet = Instantiate(bullet,transform.position,transform.rotation) as Rigidbody;
+			newBullet.AddForce(transform.forward*velocity,ForceMode.VelocityChange);
+
+			AudioSource shoot = GetComponent<AudioSource>();
+			shoot.Play();
 		}
 	}
 }
