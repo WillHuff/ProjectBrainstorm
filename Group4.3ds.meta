@@ -1,0 +1,2227 @@
+fileFormatVersion: 2
+guid: e40bc811f878f0f4884f189ddee0780a
+timeCreated: 1520354424
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: atlas0
+    100002: atlas1
+    100004: axis0
+    100006: axis1
+    100008: c30
+    100010: c31
+    100012: c40
+    100014: c41
+    100016: c50
+    100018: c51
+    100020: c60
+    100022: c61
+    100024: c70
+    100026: c71
+    100028: calcanu0
+    100030: calcanu1
+    100032: capitat0
+    100034: capitat1
+    100036: clavica0
+    100038: clavica1
+    100040: cuboid0
+    100042: cuboid1
+    100044: cunifrm0
+    100046: cunifrm1
+    100048: cunifrm2
+    100050: cunifrm3
+    100052: cunifrm4
+    100054: cunifrm5
+    100056: disks0
+    100058: disks1
+    100060: femur0
+    100062: femur1
+    100064: fibula0
+    100066: fibula1
+    100068: //RootNode
+    100070: hamate0
+    100072: hamate1
+    100074: humorus0
+    100076: humorus1
+    100078: jaw0
+    100080: jaw1
+    100082: jteeth0
+    100084: jteeth1
+    100086: l10
+    100088: l11
+    100090: l20
+    100092: l21
+    100094: l30
+    100096: l31
+    100098: l40
+    100100: l41
+    100102: l50
+    100104: l51
+    100106: lunate0
+    100108: lunate1
+    100110: mavicla0
+    100112: mavicla1
+    100114: mcarpal0
+    100116: mcarpal1
+    100118: mcarpal2
+    100120: mcarpal3
+    100122: mcarpal4
+    100124: mcarpal5
+    100126: mcarple0
+    100128: mcarple1
+    100130: metacpl0
+    100132: metacpl1
+    100134: metatsl0
+    100136: metatsl1
+    100138: metatsl2
+    100140: metatsl3
+    100142: metatsl4
+    100144: metatsl5
+    100146: metatsl6
+    100148: metatsl7
+    100150: metatsl8
+    100152: metatsl9
+    100154: patella0
+    100156: patella1
+    100158: pelvis0
+    100160: pelvis1
+    100162: phalanx0
+    100164: phalanx1
+    100166: phalng10
+    100168: phalng11
+    100170: phalng12
+    100172: phalng13
+    100174: phalx2d0
+    100176: phalx2d1
+    100178: phalx2m0
+    100180: phalx2m1
+    100182: phalx3d0
+    100184: phalx3d1
+    100186: phalx3m0
+    100188: phalx3m1
+    100190: phalx3p0
+    100192: phalx3p1
+    100194: phalx4d0
+    100196: phalx4d1
+    100198: phalx4m0
+    100200: phalx4m1
+    100202: phalx4p0
+    100204: phalx4p1
+    100206: phalx5d0
+    100208: phalx5d1
+    100210: phalx5m0
+    100212: phalx5m1
+    100214: phalx5p0
+    100216: phalx5p1
+    100218: pisifor0
+    100220: pisifor1
+    100222: radius0
+    100224: radius1
+    100226: rib0
+    100228: rib1
+    100230: rib10
+    100232: rib11
+    100234: rib12
+    100236: rib13
+    100238: rib14
+    100240: rib15
+    100242: rib16
+    100244: rib17
+    100246: rib18
+    100248: rib19
+    100250: rib2
+    100252: rib20
+    100254: rib21
+    100256: rib22
+    100258: rib23
+    100260: rib3
+    100262: rib4
+    100264: rib5
+    100266: rib6
+    100268: rib7
+    100270: rib8
+    100272: rib9
+    100274: sacrum0
+    100276: sacrum1
+    100278: scaphoi0
+    100280: scaphoi1
+    100282: scapula0
+    100284: scapula1
+    100286: skull0
+    100288: skull1
+    100290: sternum0
+    100292: sternum1
+    100294: sympubi0
+    100296: sympubi1
+    100298: t0
+    100300: t1
+    100302: t10
+    100304: t11
+    100306: t12
+    100308: t13
+    100310: t14
+    100312: t15
+    100314: t16
+    100316: t17
+    100318: t18
+    100320: t19
+    100322: t1phalx0
+    100324: t1phalx1
+    100326: t1phalx2
+    100328: t1phalx3
+    100330: t2
+    100332: t20
+    100334: t21
+    100336: t22
+    100338: t23
+    100340: t2phalx0
+    100342: t2phalx1
+    100344: t2phalx2
+    100346: t2phalx3
+    100348: t2phalx4
+    100350: t2phalx5
+    100352: t3
+    100354: t3phalx0
+    100356: t3phalx1
+    100358: t3phalx2
+    100360: t3phalx3
+    100362: t3phalx4
+    100364: t3phalx5
+    100366: t4
+    100368: t4phalx0
+    100370: t4phalx1
+    100372: t4phalx2
+    100374: t4phalx3
+    100376: t4phalx4
+    100378: t4phalx5
+    100380: t5
+    100382: t5phalx0
+    100384: t5phalx1
+    100386: t5phalx2
+    100388: t5phalx3
+    100390: t5phalx4
+    100392: t5phalx5
+    100394: t6
+    100396: t7
+    100398: t8
+    100400: t9
+    100402: talus0
+    100404: talus1
+    100406: teeth0
+    100408: teeth1
+    100410: tibia0
+    100412: tibia1
+    100414: trapziu0
+    100416: trapziu1
+    100418: trapzoi0
+    100420: trapzoi1
+    100422: triautr0
+    100424: triautr1
+    100426: ulna0
+    100428: ulna1
+    400000: atlas0
+    400002: atlas1
+    400004: axis0
+    400006: axis1
+    400008: c30
+    400010: c31
+    400012: c40
+    400014: c41
+    400016: c50
+    400018: c51
+    400020: c60
+    400022: c61
+    400024: c70
+    400026: c71
+    400028: calcanu0
+    400030: calcanu1
+    400032: capitat0
+    400034: capitat1
+    400036: clavica0
+    400038: clavica1
+    400040: cuboid0
+    400042: cuboid1
+    400044: cunifrm0
+    400046: cunifrm1
+    400048: cunifrm2
+    400050: cunifrm3
+    400052: cunifrm4
+    400054: cunifrm5
+    400056: disks0
+    400058: disks1
+    400060: femur0
+    400062: femur1
+    400064: fibula0
+    400066: fibula1
+    400068: //RootNode
+    400070: hamate0
+    400072: hamate1
+    400074: humorus0
+    400076: humorus1
+    400078: jaw0
+    400080: jaw1
+    400082: jteeth0
+    400084: jteeth1
+    400086: l10
+    400088: l11
+    400090: l20
+    400092: l21
+    400094: l30
+    400096: l31
+    400098: l40
+    400100: l41
+    400102: l50
+    400104: l51
+    400106: lunate0
+    400108: lunate1
+    400110: mavicla0
+    400112: mavicla1
+    400114: mcarpal0
+    400116: mcarpal1
+    400118: mcarpal2
+    400120: mcarpal3
+    400122: mcarpal4
+    400124: mcarpal5
+    400126: mcarple0
+    400128: mcarple1
+    400130: metacpl0
+    400132: metacpl1
+    400134: metatsl0
+    400136: metatsl1
+    400138: metatsl2
+    400140: metatsl3
+    400142: metatsl4
+    400144: metatsl5
+    400146: metatsl6
+    400148: metatsl7
+    400150: metatsl8
+    400152: metatsl9
+    400154: patella0
+    400156: patella1
+    400158: pelvis0
+    400160: pelvis1
+    400162: phalanx0
+    400164: phalanx1
+    400166: phalng10
+    400168: phalng11
+    400170: phalng12
+    400172: phalng13
+    400174: phalx2d0
+    400176: phalx2d1
+    400178: phalx2m0
+    400180: phalx2m1
+    400182: phalx3d0
+    400184: phalx3d1
+    400186: phalx3m0
+    400188: phalx3m1
+    400190: phalx3p0
+    400192: phalx3p1
+    400194: phalx4d0
+    400196: phalx4d1
+    400198: phalx4m0
+    400200: phalx4m1
+    400202: phalx4p0
+    400204: phalx4p1
+    400206: phalx5d0
+    400208: phalx5d1
+    400210: phalx5m0
+    400212: phalx5m1
+    400214: phalx5p0
+    400216: phalx5p1
+    400218: pisifor0
+    400220: pisifor1
+    400222: radius0
+    400224: radius1
+    400226: rib0
+    400228: rib1
+    400230: rib10
+    400232: rib11
+    400234: rib12
+    400236: rib13
+    400238: rib14
+    400240: rib15
+    400242: rib16
+    400244: rib17
+    400246: rib18
+    400248: rib19
+    400250: rib2
+    400252: rib20
+    400254: rib21
+    400256: rib22
+    400258: rib23
+    400260: rib3
+    400262: rib4
+    400264: rib5
+    400266: rib6
+    400268: rib7
+    400270: rib8
+    400272: rib9
+    400274: sacrum0
+    400276: sacrum1
+    400278: scaphoi0
+    400280: scaphoi1
+    400282: scapula0
+    400284: scapula1
+    400286: skull0
+    400288: skull1
+    400290: sternum0
+    400292: sternum1
+    400294: sympubi0
+    400296: sympubi1
+    400298: t0
+    400300: t1
+    400302: t10
+    400304: t11
+    400306: t12
+    400308: t13
+    400310: t14
+    400312: t15
+    400314: t16
+    400316: t17
+    400318: t18
+    400320: t19
+    400322: t1phalx0
+    400324: t1phalx1
+    400326: t1phalx2
+    400328: t1phalx3
+    400330: t2
+    400332: t20
+    400334: t21
+    400336: t22
+    400338: t23
+    400340: t2phalx0
+    400342: t2phalx1
+    400344: t2phalx2
+    400346: t2phalx3
+    400348: t2phalx4
+    400350: t2phalx5
+    400352: t3
+    400354: t3phalx0
+    400356: t3phalx1
+    400358: t3phalx2
+    400360: t3phalx3
+    400362: t3phalx4
+    400364: t3phalx5
+    400366: t4
+    400368: t4phalx0
+    400370: t4phalx1
+    400372: t4phalx2
+    400374: t4phalx3
+    400376: t4phalx4
+    400378: t4phalx5
+    400380: t5
+    400382: t5phalx0
+    400384: t5phalx1
+    400386: t5phalx2
+    400388: t5phalx3
+    400390: t5phalx4
+    400392: t5phalx5
+    400394: t6
+    400396: t7
+    400398: t8
+    400400: t9
+    400402: talus0
+    400404: talus1
+    400406: teeth0
+    400408: teeth1
+    400410: tibia0
+    400412: tibia1
+    400414: trapziu0
+    400416: trapziu1
+    400418: trapzoi0
+    400420: trapzoi1
+    400422: triautr0
+    400424: triautr1
+    400426: ulna0
+    400428: ulna1
+    2300000: atlas0
+    2300002: atlas1
+    2300004: axis0
+    2300006: axis1
+    2300008: c30
+    2300010: c31
+    2300012: c40
+    2300014: c41
+    2300016: c50
+    2300018: c51
+    2300020: c60
+    2300022: c61
+    2300024: c70
+    2300026: c71
+    2300028: calcanu0
+    2300030: calcanu1
+    2300032: capitat0
+    2300034: capitat1
+    2300036: clavica0
+    2300038: clavica1
+    2300040: cuboid0
+    2300042: cuboid1
+    2300044: cunifrm0
+    2300046: cunifrm1
+    2300048: cunifrm2
+    2300050: cunifrm3
+    2300052: cunifrm4
+    2300054: cunifrm5
+    2300056: disks0
+    2300058: disks1
+    2300060: femur0
+    2300062: femur1
+    2300064: fibula0
+    2300066: fibula1
+    2300068: hamate0
+    2300070: hamate1
+    2300072: humorus0
+    2300074: humorus1
+    2300076: jaw0
+    2300078: jaw1
+    2300080: jteeth0
+    2300082: jteeth1
+    2300084: l10
+    2300086: l11
+    2300088: l20
+    2300090: l21
+    2300092: l30
+    2300094: l31
+    2300096: l40
+    2300098: l41
+    2300100: l50
+    2300102: l51
+    2300104: lunate0
+    2300106: lunate1
+    2300108: mavicla0
+    2300110: mavicla1
+    2300112: mcarpal0
+    2300114: mcarpal1
+    2300116: mcarpal2
+    2300118: mcarpal3
+    2300120: mcarpal4
+    2300122: mcarpal5
+    2300124: mcarple0
+    2300126: mcarple1
+    2300128: metacpl0
+    2300130: metacpl1
+    2300132: metatsl0
+    2300134: metatsl1
+    2300136: metatsl2
+    2300138: metatsl3
+    2300140: metatsl4
+    2300142: metatsl5
+    2300144: metatsl6
+    2300146: metatsl7
+    2300148: metatsl8
+    2300150: metatsl9
+    2300152: patella0
+    2300154: patella1
+    2300156: pelvis0
+    2300158: pelvis1
+    2300160: phalanx0
+    2300162: phalanx1
+    2300164: phalng10
+    2300166: phalng11
+    2300168: phalng12
+    2300170: phalng13
+    2300172: phalx2d0
+    2300174: phalx2d1
+    2300176: phalx2m0
+    2300178: phalx2m1
+    2300180: phalx3d0
+    2300182: phalx3d1
+    2300184: phalx3m0
+    2300186: phalx3m1
+    2300188: phalx3p0
+    2300190: phalx3p1
+    2300192: phalx4d0
+    2300194: phalx4d1
+    2300196: phalx4m0
+    2300198: phalx4m1
+    2300200: phalx4p0
+    2300202: phalx4p1
+    2300204: phalx5d0
+    2300206: phalx5d1
+    2300208: phalx5m0
+    2300210: phalx5m1
+    2300212: phalx5p0
+    2300214: phalx5p1
+    2300216: pisifor0
+    2300218: pisifor1
+    2300220: radius0
+    2300222: radius1
+    2300224: rib0
+    2300226: rib1
+    2300228: rib10
+    2300230: rib11
+    2300232: rib12
+    2300234: rib13
+    2300236: rib14
+    2300238: rib15
+    2300240: rib16
+    2300242: rib17
+    2300244: rib18
+    2300246: rib19
+    2300248: rib2
+    2300250: rib20
+    2300252: rib21
+    2300254: rib22
+    2300256: rib23
+    2300258: rib3
+    2300260: rib4
+    2300262: rib5
+    2300264: rib6
+    2300266: rib7
+    2300268: rib8
+    2300270: rib9
+    2300272: sacrum0
+    2300274: sacrum1
+    2300276: scaphoi0
+    2300278: scaphoi1
+    2300280: scapula0
+    2300282: scapula1
+    2300284: skull0
+    2300286: skull1
+    2300288: sternum0
+    2300290: sternum1
+    2300292: sympubi0
+    2300294: sympubi1
+    2300296: t0
+    2300298: t1
+    2300300: t10
+    2300302: t11
+    2300304: t12
+    2300306: t13
+    2300308: t14
+    2300310: t15
+    2300312: t16
+    2300314: t17
+    2300316: t18
+    2300318: t19
+    2300320: t1phalx0
+    2300322: t1phalx1
+    2300324: t1phalx2
+    2300326: t1phalx3
+    2300328: t2
+    2300330: t20
+    2300332: t21
+    2300334: t22
+    2300336: t23
+    2300338: t2phalx0
+    2300340: t2phalx1
+    2300342: t2phalx2
+    2300344: t2phalx3
+    2300346: t2phalx4
+    2300348: t2phalx5
+    2300350: t3
+    2300352: t3phalx0
+    2300354: t3phalx1
+    2300356: t3phalx2
+    2300358: t3phalx3
+    2300360: t3phalx4
+    2300362: t3phalx5
+    2300364: t4
+    2300366: t4phalx0
+    2300368: t4phalx1
+    2300370: t4phalx2
+    2300372: t4phalx3
+    2300374: t4phalx4
+    2300376: t4phalx5
+    2300378: t5
+    2300380: t5phalx0
+    2300382: t5phalx1
+    2300384: t5phalx2
+    2300386: t5phalx3
+    2300388: t5phalx4
+    2300390: t5phalx5
+    2300392: t6
+    2300394: t7
+    2300396: t8
+    2300398: t9
+    2300400: talus0
+    2300402: talus1
+    2300404: teeth0
+    2300406: teeth1
+    2300408: tibia0
+    2300410: tibia1
+    2300412: trapziu0
+    2300414: trapziu1
+    2300416: trapzoi0
+    2300418: trapzoi1
+    2300420: triautr0
+    2300422: triautr1
+    2300424: ulna0
+    2300426: ulna1
+    3300000: atlas0
+    3300002: atlas1
+    3300004: axis0
+    3300006: axis1
+    3300008: c30
+    3300010: c31
+    3300012: c40
+    3300014: c41
+    3300016: c50
+    3300018: c51
+    3300020: c60
+    3300022: c61
+    3300024: c70
+    3300026: c71
+    3300028: calcanu0
+    3300030: calcanu1
+    3300032: capitat0
+    3300034: capitat1
+    3300036: clavica0
+    3300038: clavica1
+    3300040: cuboid0
+    3300042: cuboid1
+    3300044: cunifrm0
+    3300046: cunifrm1
+    3300048: cunifrm2
+    3300050: cunifrm3
+    3300052: cunifrm4
+    3300054: cunifrm5
+    3300056: disks0
+    3300058: disks1
+    3300060: femur0
+    3300062: femur1
+    3300064: fibula0
+    3300066: fibula1
+    3300068: hamate0
+    3300070: hamate1
+    3300072: humorus0
+    3300074: humorus1
+    3300076: jaw0
+    3300078: jaw1
+    3300080: jteeth0
+    3300082: jteeth1
+    3300084: l10
+    3300086: l11
+    3300088: l20
+    3300090: l21
+    3300092: l30
+    3300094: l31
+    3300096: l40
+    3300098: l41
+    3300100: l50
+    3300102: l51
+    3300104: lunate0
+    3300106: lunate1
+    3300108: mavicla0
+    3300110: mavicla1
+    3300112: mcarpal0
+    3300114: mcarpal1
+    3300116: mcarpal2
+    3300118: mcarpal3
+    3300120: mcarpal4
+    3300122: mcarpal5
+    3300124: mcarple0
+    3300126: mcarple1
+    3300128: metacpl0
+    3300130: metacpl1
+    3300132: metatsl0
+    3300134: metatsl1
+    3300136: metatsl2
+    3300138: metatsl3
+    3300140: metatsl4
+    3300142: metatsl5
+    3300144: metatsl6
+    3300146: metatsl7
+    3300148: metatsl8
+    3300150: metatsl9
+    3300152: patella0
+    3300154: patella1
+    3300156: pelvis0
+    3300158: pelvis1
+    3300160: phalanx0
+    3300162: phalanx1
+    3300164: phalng10
+    3300166: phalng11
+    3300168: phalng12
+    3300170: phalng13
+    3300172: phalx2d0
+    3300174: phalx2d1
+    3300176: phalx2m0
+    3300178: phalx2m1
+    3300180: phalx3d0
+    3300182: phalx3d1
+    3300184: phalx3m0
+    3300186: phalx3m1
+    3300188: phalx3p0
+    3300190: phalx3p1
+    3300192: phalx4d0
+    3300194: phalx4d1
+    3300196: phalx4m0
+    3300198: phalx4m1
+    3300200: phalx4p0
+    3300202: phalx4p1
+    3300204: phalx5d0
+    3300206: phalx5d1
+    3300208: phalx5m0
+    3300210: phalx5m1
+    3300212: phalx5p0
+    3300214: phalx5p1
+    3300216: pisifor0
+    3300218: pisifor1
+    3300220: radius0
+    3300222: radius1
+    3300224: rib0
+    3300226: rib1
+    3300228: rib10
+    3300230: rib11
+    3300232: rib12
+    3300234: rib13
+    3300236: rib14
+    3300238: rib15
+    3300240: rib16
+    3300242: rib17
+    3300244: rib18
+    3300246: rib19
+    3300248: rib2
+    3300250: rib20
+    3300252: rib21
+    3300254: rib22
+    3300256: rib23
+    3300258: rib3
+    3300260: rib4
+    3300262: rib5
+    3300264: rib6
+    3300266: rib7
+    3300268: rib8
+    3300270: rib9
+    3300272: sacrum0
+    3300274: sacrum1
+    3300276: scaphoi0
+    3300278: scaphoi1
+    3300280: scapula0
+    3300282: scapula1
+    3300284: skull0
+    3300286: skull1
+    3300288: sternum0
+    3300290: sternum1
+    3300292: sympubi0
+    3300294: sympubi1
+    3300296: t0
+    3300298: t1
+    3300300: t10
+    3300302: t11
+    3300304: t12
+    3300306: t13
+    3300308: t14
+    3300310: t15
+    3300312: t16
+    3300314: t17
+    3300316: t18
+    3300318: t19
+    3300320: t1phalx0
+    3300322: t1phalx1
+    3300324: t1phalx2
+    3300326: t1phalx3
+    3300328: t2
+    3300330: t20
+    3300332: t21
+    3300334: t22
+    3300336: t23
+    3300338: t2phalx0
+    3300340: t2phalx1
+    3300342: t2phalx2
+    3300344: t2phalx3
+    3300346: t2phalx4
+    3300348: t2phalx5
+    3300350: t3
+    3300352: t3phalx0
+    3300354: t3phalx1
+    3300356: t3phalx2
+    3300358: t3phalx3
+    3300360: t3phalx4
+    3300362: t3phalx5
+    3300364: t4
+    3300366: t4phalx0
+    3300368: t4phalx1
+    3300370: t4phalx2
+    3300372: t4phalx3
+    3300374: t4phalx4
+    3300376: t4phalx5
+    3300378: t5
+    3300380: t5phalx0
+    3300382: t5phalx1
+    3300384: t5phalx2
+    3300386: t5phalx3
+    3300388: t5phalx4
+    3300390: t5phalx5
+    3300392: t6
+    3300394: t7
+    3300396: t8
+    3300398: t9
+    3300400: talus0
+    3300402: talus1
+    3300404: teeth0
+    3300406: teeth1
+    3300408: tibia0
+    3300410: tibia1
+    3300412: trapziu0
+    3300414: trapziu1
+    3300416: trapzoi0
+    3300418: trapzoi1
+    3300420: triautr0
+    3300422: triautr1
+    3300424: ulna0
+    3300426: ulna1
+    4300000: clavica0
+    4300002: scapula0
+    4300004: disks0
+    4300006: t0
+    4300008: t1
+    4300010: t2
+    4300012: t3
+    4300014: t4
+    4300016: t5
+    4300018: t6
+    4300020: t7
+    4300022: t8
+    4300024: t9
+    4300026: t10
+    4300028: t11
+    4300030: l10
+    4300032: l20
+    4300034: l30
+    4300036: l40
+    4300038: l50
+    4300040: c60
+    4300042: c70
+    4300044: atlas0
+    4300046: c50
+    4300048: c40
+    4300050: c30
+    4300052: axis0
+    4300054: sacrum0
+    4300056: rib0
+    4300058: rib1
+    4300060: rib2
+    4300062: rib3
+    4300064: rib4
+    4300066: rib5
+    4300068: rib6
+    4300070: rib7
+    4300072: rib8
+    4300074: rib9
+    4300076: rib10
+    4300078: rib11
+    4300080: sternum0
+    4300082: skull0
+    4300084: jaw0
+    4300086: humorus0
+    4300088: ulna0
+    4300090: radius0
+    4300092: mcarple0
+    4300094: phalanx0
+    4300096: phalx2m0
+    4300098: phalx2d0
+    4300100: phalx3d0
+    4300102: phalx3m0
+    4300104: phalx3p0
+    4300106: mcarpal0
+    4300108: phalx4d0
+    4300110: phalx4m0
+    4300112: phalx4p0
+    4300114: mcarpal1
+    4300116: phalx5d0
+    4300118: phalx5m0
+    4300120: phalx5p0
+    4300122: mcarpal2
+    4300124: metacpl0
+    4300126: phalng10
+    4300128: phalng11
+    4300130: trapzoi0
+    4300132: trapziu0
+    4300134: capitat0
+    4300136: pisifor0
+    4300138: scaphoi0
+    4300140: hamate0
+    4300142: lunate0
+    4300144: triautr0
+    4300146: fibula0
+    4300148: patella0
+    4300150: tibia0
+    4300152: t5phalx0
+    4300154: t5phalx1
+    4300156: t5phalx2
+    4300158: metatsl0
+    4300160: metatsl1
+    4300162: t4phalx0
+    4300164: t4phalx1
+    4300166: t4phalx2
+    4300168: metatsl2
+    4300170: t2phalx0
+    4300172: t2phalx1
+    4300174: t2phalx2
+    4300176: metatsl3
+    4300178: cunifrm0
+    4300180: t1phalx0
+    4300182: t1phalx1
+    4300184: talus0
+    4300186: cuboid0
+    4300188: calcanu0
+    4300190: cunifrm1
+    4300192: cunifrm2
+    4300194: mavicla0
+    4300196: metatsl4
+    4300198: t3phalx0
+    4300200: t3phalx1
+    4300202: t3phalx2
+    4300204: femur0
+    4300206: pelvis0
+    4300208: sympubi0
+    4300210: clavica1
+    4300212: scapula1
+    4300214: disks1
+    4300216: t12
+    4300218: t13
+    4300220: t14
+    4300222: t15
+    4300224: t16
+    4300226: t17
+    4300228: t18
+    4300230: t19
+    4300232: t20
+    4300234: t21
+    4300236: t22
+    4300238: t23
+    4300240: l11
+    4300242: l21
+    4300244: l31
+    4300246: l41
+    4300248: l51
+    4300250: c61
+    4300252: c71
+    4300254: atlas1
+    4300256: c51
+    4300258: c41
+    4300260: c31
+    4300262: axis1
+    4300264: sacrum1
+    4300266: rib12
+    4300268: rib13
+    4300270: rib14
+    4300272: rib15
+    4300274: rib16
+    4300276: rib17
+    4300278: rib18
+    4300280: rib19
+    4300282: rib20
+    4300284: rib21
+    4300286: rib22
+    4300288: rib23
+    4300290: sternum1
+    4300292: skull1
+    4300294: jaw1
+    4300296: humorus1
+    4300298: ulna1
+    4300300: radius1
+    4300302: mcarple1
+    4300304: phalanx1
+    4300306: phalx2m1
+    4300308: phalx2d1
+    4300310: phalx3d1
+    4300312: phalx3m1
+    4300314: phalx3p1
+    4300316: mcarpal3
+    4300318: phalx4d1
+    4300320: phalx4m1
+    4300322: phalx4p1
+    4300324: mcarpal4
+    4300326: phalx5d1
+    4300328: phalx5m1
+    4300330: phalx5p1
+    4300332: mcarpal5
+    4300334: metacpl1
+    4300336: phalng12
+    4300338: phalng13
+    4300340: trapzoi1
+    4300342: trapziu1
+    4300344: capitat1
+    4300346: pisifor1
+    4300348: scaphoi1
+    4300350: hamate1
+    4300352: lunate1
+    4300354: triautr1
+    4300356: fibula1
+    4300358: patella1
+    4300360: tibia1
+    4300362: t5phalx3
+    4300364: t5phalx4
+    4300366: t5phalx5
+    4300368: metatsl5
+    4300370: metatsl6
+    4300372: t4phalx3
+    4300374: t4phalx4
+    4300376: t4phalx5
+    4300378: metatsl7
+    4300380: t2phalx3
+    4300382: t2phalx4
+    4300384: t2phalx5
+    4300386: metatsl8
+    4300388: cunifrm3
+    4300390: t1phalx2
+    4300392: t1phalx3
+    4300394: talus1
+    4300396: cuboid1
+    4300398: calcanu1
+    4300400: cunifrm4
+    4300402: cunifrm5
+    4300404: mavicla1
+    4300406: metatsl9
+    4300408: t3phalx3
+    4300410: t3phalx4
+    4300412: t3phalx5
+    4300414: femur1
+    4300416: pelvis1
+    4300418: sympubi1
+    4300420: teeth0
+    4300422: jteeth0
+    4300424: teeth1
+    4300426: jteeth1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater0
+    second: {fileID: 2100000, guid: a3ecbd9ceb8b22c4a9befa47aeb4ac0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater1
+    second: {fileID: 2100000, guid: b0302faa49cf3454cbe9b9c3cb485f69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater10
+    second: {fileID: 2100000, guid: 843c3ead730f9794a839af19bf3d1512, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater100
+    second: {fileID: 2100000, guid: 7312460c27cfb6a4c87ae6e0ee01ad58, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater101
+    second: {fileID: 2100000, guid: 2a1327da309d3eb42b660825bf661547, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater102
+    second: {fileID: 2100000, guid: 29e3b60c5274f1445918f5f65d3f2968, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater103
+    second: {fileID: 2100000, guid: 2444e85f9567b7e48bc7542a07b8b055, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater104
+    second: {fileID: 2100000, guid: 24bb3fe201cb51e4f97f51f41f7c9f55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater105
+    second: {fileID: 2100000, guid: 7d4ef8126ad72024cb32710f45e55aa6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater106
+    second: {fileID: 2100000, guid: 962fd22a7501da943920eb7c9c69dc16, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater11
+    second: {fileID: 2100000, guid: 941e71e41504ea8478a6ef5199d1dff7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater12
+    second: {fileID: 2100000, guid: 210577db52037624886e716c46a60480, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater13
+    second: {fileID: 2100000, guid: 9566d1070b572ee49b8abe0a66180eff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater14
+    second: {fileID: 2100000, guid: c442dabddd6c0044799ae4f572841df1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater15
+    second: {fileID: 2100000, guid: 751fcb20ef606c748814793faf133f92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater16
+    second: {fileID: 2100000, guid: 4845c28d9e5c15c4cb9f49a04b7c8e34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater17
+    second: {fileID: 2100000, guid: 4eba84f27c23b3041bdc2bad87e4fd0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater18
+    second: {fileID: 2100000, guid: 7df5dae02855ac7418307b64f725e9ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater19
+    second: {fileID: 2100000, guid: a58b40867fa1911458ad81f7e5741a58, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater2
+    second: {fileID: 2100000, guid: 1f4fd57b46e3b1244896412489a077c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater20
+    second: {fileID: 2100000, guid: f924cf2f6a81b1a4583706d7e462a627, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater21
+    second: {fileID: 2100000, guid: 507f2291877dec1448b5bf4b295edeee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater22
+    second: {fileID: 2100000, guid: 44ae0cba70d57644e93fe407a752335f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater23
+    second: {fileID: 2100000, guid: cef090eda226fb648ae0490f2ca188ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater24
+    second: {fileID: 2100000, guid: 76ffaf89f45d5a642a9e247b0f79df61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater25
+    second: {fileID: 2100000, guid: fb6c6e96f6a7b8f48b901c9bb11cb944, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater26
+    second: {fileID: 2100000, guid: 4f2e81f164e70ec48bb28ad1669f3640, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater27
+    second: {fileID: 2100000, guid: b02e59368a8ab0441a46567ffcae2359, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater28
+    second: {fileID: 2100000, guid: 7f139105680c0c64d8dc7337eb220229, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater29
+    second: {fileID: 2100000, guid: 39ccb232b8e826345bd6150b3174542e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater3
+    second: {fileID: 2100000, guid: 12ea4f5a14223e042a309d5bafbb986e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater30
+    second: {fileID: 2100000, guid: 5464fd2b42760d9428c25cc9c15da003, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater31
+    second: {fileID: 2100000, guid: f07602c219390634aa5b4933ebe834bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater32
+    second: {fileID: 2100000, guid: 4e72a2f7ef7770842bccb81dbfc9486c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater33
+    second: {fileID: 2100000, guid: 5fcd23bf295c9f349b61e65fd35a984f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater34
+    second: {fileID: 2100000, guid: a474dea37116c174cad7d8d192b96c03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater35
+    second: {fileID: 2100000, guid: f135dfd9b3c9a154abc234d92836be3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater36
+    second: {fileID: 2100000, guid: e661dc46539400244be3d9bdcd69758d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater37
+    second: {fileID: 2100000, guid: 1bc9328eb468d2346be5445ab8638866, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater38
+    second: {fileID: 2100000, guid: c647623382f73e14ea3dde95bac9e080, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater39
+    second: {fileID: 2100000, guid: 8475d8f48b2260e49bc5033c57c5a2a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater4
+    second: {fileID: 2100000, guid: 6337522d054e7a6449a80bf855c6ab6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater40
+    second: {fileID: 2100000, guid: b36a1b1fe4cac2b48a9cc6f429493c2c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater41
+    second: {fileID: 2100000, guid: ca96e029038d56e4492ab0017457edd9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater42
+    second: {fileID: 2100000, guid: 3e9c353207f82bf448864fff776ce95c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater43
+    second: {fileID: 2100000, guid: 5618a931e561818479f8eb1af9db11b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater44
+    second: {fileID: 2100000, guid: 7b81d4980f4e48649992668f446701c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater45
+    second: {fileID: 2100000, guid: d7db6c5ec6957884a81d6b33025a6b6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater46
+    second: {fileID: 2100000, guid: 9e9e777215789ec498089da3e663ee5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater47
+    second: {fileID: 2100000, guid: e86824494672af145a504b068308bb08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater48
+    second: {fileID: 2100000, guid: 39062f19a80ae234796e3d5047f4a944, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater49
+    second: {fileID: 2100000, guid: d7eef249faaa0bc43a866c9368d0feb2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater5
+    second: {fileID: 2100000, guid: 02025eab27862ff40bfe9f4c53111044, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater50
+    second: {fileID: 2100000, guid: e48fc357a16a9ca4e9fc5819421a19e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater51
+    second: {fileID: 2100000, guid: 407471f675b59c141acb508c21d75800, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater52
+    second: {fileID: 2100000, guid: ec53684d3b1abdd4dac65ab5dd35a518, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater53
+    second: {fileID: 2100000, guid: 75eefe987ea9f9042a82c21d96fbfd55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater54
+    second: {fileID: 2100000, guid: 529f5578b9e71624ba63947da96eeb31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater55
+    second: {fileID: 2100000, guid: 123a911ad762d1543b0965273ba390cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater56
+    second: {fileID: 2100000, guid: 66087b1d7a9733749bea24a530f639d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater57
+    second: {fileID: 2100000, guid: 0d9a9c8db4da31c48a1901080835d06a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater58
+    second: {fileID: 2100000, guid: c4ff3f8a8d3ee2a47af86c44fad0a974, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater59
+    second: {fileID: 2100000, guid: 8af17da57ad40cc43bbf49c845470ecc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater6
+    second: {fileID: 2100000, guid: a56acb8f546fca64b8e75a5e5a351a44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater60
+    second: {fileID: 2100000, guid: 6e589af7a718b344c9f45ca96a8664f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater61
+    second: {fileID: 2100000, guid: 19440d24137f43f49904b5db1ea4e6c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater62
+    second: {fileID: 2100000, guid: beee72cc8875e4c4caf748fa4e54e009, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater63
+    second: {fileID: 2100000, guid: 679192771573ba84b882473f9ff75c6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater64
+    second: {fileID: 2100000, guid: e2d0ac925352b90468cd8ea01a2ed24e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater65
+    second: {fileID: 2100000, guid: 916c2c25c1f38174a80a6add53fcdeaf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater66
+    second: {fileID: 2100000, guid: 8d99911332dcd4d4d9f5031e03433b28, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater67
+    second: {fileID: 2100000, guid: e2dc00c8c6584f84c9e8530b2371cb73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater68
+    second: {fileID: 2100000, guid: d284a94a8e7a45f4296be6d1a65e7905, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater69
+    second: {fileID: 2100000, guid: 3686518f33f09ef4dbef48378306f3e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater7
+    second: {fileID: 2100000, guid: c49c9bd8bd2b94d478ebe23cd2a7b916, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater70
+    second: {fileID: 2100000, guid: 90cf225f86c86b34ebaaf986e322699b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater71
+    second: {fileID: 2100000, guid: c68636fc12edf86469cd253ae20a71e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater72
+    second: {fileID: 2100000, guid: 1d462110ee5d7c348b0efaf3ccd9d9b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater73
+    second: {fileID: 2100000, guid: 5702a0cdbc0ef7542aa581febc2431e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater74
+    second: {fileID: 2100000, guid: 2c2dc5ec10e42064586dc60884e0de4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater75
+    second: {fileID: 2100000, guid: 0f8820fc6be39ee4fb34abc4c9d94458, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater76
+    second: {fileID: 2100000, guid: 79d104565113c5e40878defd3fd403db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater77
+    second: {fileID: 2100000, guid: ee4e8f743525c9449b85ad59d5170551, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater78
+    second: {fileID: 2100000, guid: fe98cf59db477a847b785e5a33065f92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater79
+    second: {fileID: 2100000, guid: ac09b1868fea6814791a22e0d5787bbd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater8
+    second: {fileID: 2100000, guid: 3a81bbb52bcf8f347bcee98e36eb7084, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater80
+    second: {fileID: 2100000, guid: 95b88c59087af67458c5d8e676421a2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater81
+    second: {fileID: 2100000, guid: e522aa22f405d3c4985597122aca1ee1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater82
+    second: {fileID: 2100000, guid: 553e4392fe0fd4f4e95c104cf8ee9ba9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater83
+    second: {fileID: 2100000, guid: 28c7ca888c4300542ad150cdd12e49ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater84
+    second: {fileID: 2100000, guid: 95049ee73396ed749a2f9bd5ed55214a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater85
+    second: {fileID: 2100000, guid: 67d8c7f65cde9694f9a257d3f59e8513, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater86
+    second: {fileID: 2100000, guid: 9e887e7133701b440a73e1453f5d6309, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater87
+    second: {fileID: 2100000, guid: 0084bbcae951002409466610c21df0ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater88
+    second: {fileID: 2100000, guid: 58458c1fda801a44cbb1073d72dcd1ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater89
+    second: {fileID: 2100000, guid: 2746d015b5a05c54d9bd35dbfe9a44c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater9
+    second: {fileID: 2100000, guid: e8b558e622c50ce448741ff7bf07f6fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater90
+    second: {fileID: 2100000, guid: 77c86e725cac92f4ba45993dafdc3501, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater91
+    second: {fileID: 2100000, guid: cb1ee9d1dce62ad4ba13f3127ed74126, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater92
+    second: {fileID: 2100000, guid: ded21f208ba180541abb9ea40a634ca1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater93
+    second: {fileID: 2100000, guid: 2788406f029601245a972164ee9177e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater94
+    second: {fileID: 2100000, guid: 34f7e46ccc7672148b587fd2fe2a3316, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater95
+    second: {fileID: 2100000, guid: 752bf0900646a284388fb914cb4abe87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater96
+    second: {fileID: 2100000, guid: 710d69eb7d125764aa0fe5ffad1709e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater97
+    second: {fileID: 2100000, guid: 676fb75e104bd374fbc5db8fa1380259, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater98
+    second: {fileID: 2100000, guid: 9b6d0bdab079cbb4a87a294c1c91207b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mater99
+    second: {fileID: 2100000, guid: 65e90e9b62b5e7c4ab367012d17bd0f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie0
+    second: {fileID: 2100000, guid: 1f6d119ce6a380846bb28aed35fe733b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie1
+    second: {fileID: 2100000, guid: 64a7c156631b6f649a5f2ec0294e4d3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie10
+    second: {fileID: 2100000, guid: 0242094a22d524747bb7797f1afa602a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie100
+    second: {fileID: 2100000, guid: ff2bd2d1df12b9d42958c18acccfa420, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie101
+    second: {fileID: 2100000, guid: 6ba1df8d4f2a56942979afe97aa30c29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie102
+    second: {fileID: 2100000, guid: e288ca9dc3163ba4c9de59dfdacca191, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie103
+    second: {fileID: 2100000, guid: c3e7b4c4e5425454196e638001659609, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie104
+    second: {fileID: 2100000, guid: d040a17dbbc96df48b00e3c330cff65d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie11
+    second: {fileID: 2100000, guid: 9229f399d3f80554f9c7cecebd849552, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie12
+    second: {fileID: 2100000, guid: d513af92f7bc8bd40a62746c5366700f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie13
+    second: {fileID: 2100000, guid: 62cbe5257d12dbc46bbcd37c908f0613, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie14
+    second: {fileID: 2100000, guid: bf89ddb26eb833e4aa124cf0cca7bde4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie15
+    second: {fileID: 2100000, guid: 8b43592fea1ac0f4fbe89a60fc45b06b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie16
+    second: {fileID: 2100000, guid: c8c6efe9a142c274fadf922e3996d8a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie17
+    second: {fileID: 2100000, guid: 6f85af53bd690a54aa27b7445a3bcabe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie18
+    second: {fileID: 2100000, guid: c15e16e8eeb5dd3489745e7becba3f7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie19
+    second: {fileID: 2100000, guid: b978d336b5f626b47bfd0ede27592b6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie2
+    second: {fileID: 2100000, guid: a6b4aabdb78ddad4ba3eed092fd53c41, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie20
+    second: {fileID: 2100000, guid: 4e4d4159fbcc86e42807117c312dc225, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie21
+    second: {fileID: 2100000, guid: d1b19770609ce4e44ae6d98d5fc2d2c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie22
+    second: {fileID: 2100000, guid: 23753241206797245a619628e59e1d08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie23
+    second: {fileID: 2100000, guid: 9ad56ee1bcd29d6468e86487aeaaf33b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie24
+    second: {fileID: 2100000, guid: 027227f6039673b4b994fa8ed43e9997, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie25
+    second: {fileID: 2100000, guid: 30894b653fa3ba4468a75280ad4c24b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie26
+    second: {fileID: 2100000, guid: 67037d18d166e6e42a9ca63d11690071, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie27
+    second: {fileID: 2100000, guid: 8e6c3246040dc0c47b145e72d61210e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie28
+    second: {fileID: 2100000, guid: 9379411766a9ebd419bef3f572a0b6ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie29
+    second: {fileID: 2100000, guid: 03f592085e27a5b499a3a60d78942627, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie3
+    second: {fileID: 2100000, guid: e60719d953e7df8449914c8612401bb6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie30
+    second: {fileID: 2100000, guid: d8ea7db8df8bf6e4cafd52772eb58431, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie31
+    second: {fileID: 2100000, guid: d59ac2a4738cbf740b09f741bffa0848, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie32
+    second: {fileID: 2100000, guid: 60046caf585ec4b4abc38c547de09517, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie33
+    second: {fileID: 2100000, guid: c550b79e95ead884f9c7896fa54e95d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie34
+    second: {fileID: 2100000, guid: 65d219b76fa2678419a7c26a6ffc2ae7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie35
+    second: {fileID: 2100000, guid: 994c61ff2bcbb5c43850055838d22566, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie36
+    second: {fileID: 2100000, guid: 734dbb40eea55454baaddeb66b607678, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie37
+    second: {fileID: 2100000, guid: cedf1df1541bb6a42b29c832f5180ac6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie38
+    second: {fileID: 2100000, guid: 4e64a2e429b55b545af139ca4e9a3eb7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie39
+    second: {fileID: 2100000, guid: 0b7de2fac4ab2114ab2e61a2cccbfb8c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie4
+    second: {fileID: 2100000, guid: 83174f2d39f521d42ab0f73f02a1eb0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie40
+    second: {fileID: 2100000, guid: 9741fb327ced3464ea1767441f86d807, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie41
+    second: {fileID: 2100000, guid: 46de57ae7e7cbc940a58ae8fc6fad295, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie42
+    second: {fileID: 2100000, guid: ce24528f589eaac41aeb9c9109970de4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie43
+    second: {fileID: 2100000, guid: 1a36e4614cc16e24e832cfe9332f12e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie44
+    second: {fileID: 2100000, guid: 717be166016b1ae40afc57d66e39c0ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie45
+    second: {fileID: 2100000, guid: 01c2684dc2983bf4eb54bf896ef974d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie46
+    second: {fileID: 2100000, guid: ccf827c42e1791b4aba155be5dd92340, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie47
+    second: {fileID: 2100000, guid: 9ce7e3cbf10636341913a5f78c427e5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie48
+    second: {fileID: 2100000, guid: 6c4374ed72ef93e4aab8f2eed089ef33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie49
+    second: {fileID: 2100000, guid: 585f6617f795e8f428f7d85e099916f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie5
+    second: {fileID: 2100000, guid: 0482c2ba53e31d94fb2606780c033567, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie50
+    second: {fileID: 2100000, guid: cea396d33dc788a43bb86f4d0be18ff5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie51
+    second: {fileID: 2100000, guid: 7044d8b04640f464da16fdf59fb32446, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie52
+    second: {fileID: 2100000, guid: 540892d1b02704b4d963a6128352c5bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie53
+    second: {fileID: 2100000, guid: 3cf0b182ad82f6442b23c502a7e71e05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie54
+    second: {fileID: 2100000, guid: 238c3e8bdb1882146a47dd8ddef7e0bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie55
+    second: {fileID: 2100000, guid: 42f95239f725c9c49955bb37696bfa24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie56
+    second: {fileID: 2100000, guid: 961f8c91fbc8e5a4784248784310fcde, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie57
+    second: {fileID: 2100000, guid: b09987f5117c1f043990d39aa19a314f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie58
+    second: {fileID: 2100000, guid: 904b9ebfe4c29964da509cc82dba38a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie59
+    second: {fileID: 2100000, guid: 991f7d31e9b0bab4ca0a4980f487707c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie6
+    second: {fileID: 2100000, guid: ed41ea23b69e77f439fc047adc1fd105, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie60
+    second: {fileID: 2100000, guid: 6419bfc1e2fd3d941abc545d8213baa9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie61
+    second: {fileID: 2100000, guid: 78f1e68b12de9ef4486f9d1f3aa55ced, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie62
+    second: {fileID: 2100000, guid: f8876b7f8cdab1f41b4927c897bcd05e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie63
+    second: {fileID: 2100000, guid: cf2576603a06c4749bf2a0424d9f30f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie64
+    second: {fileID: 2100000, guid: 3adf8c66e804fff4fb71e500a1dae072, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie65
+    second: {fileID: 2100000, guid: 5636f0b9dbdc5824693688b8a90257cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie66
+    second: {fileID: 2100000, guid: a3313352807d6e343945663b8c87f1e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie67
+    second: {fileID: 2100000, guid: 8707c36acb8277147a5832a634efb8b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie68
+    second: {fileID: 2100000, guid: c26d5b8ce4511344884275a92695f674, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie69
+    second: {fileID: 2100000, guid: d73256c3fac863b459c1ec874bbc2a9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie7
+    second: {fileID: 2100000, guid: bf1c3e7c2830d2b4cac9b756e70fa19b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie70
+    second: {fileID: 2100000, guid: f2181ab81042fb04287f7e3026e0a6f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie71
+    second: {fileID: 2100000, guid: c86bc2ed4654f3e4e8b20f222c4ddd69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie72
+    second: {fileID: 2100000, guid: 6dcb4195e3d598049a34bebf02773d02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie73
+    second: {fileID: 2100000, guid: 845a7a0fde960a44da7d39ed6c4b86df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie74
+    second: {fileID: 2100000, guid: 47494f9c948a68a4dadb9a6d85286450, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie75
+    second: {fileID: 2100000, guid: 50f6e832a2b948e4391e658216a17d4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie76
+    second: {fileID: 2100000, guid: 265e03f178e75a645831e8d192071832, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie77
+    second: {fileID: 2100000, guid: ac1926766fb43c648bda3b90e70751f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie78
+    second: {fileID: 2100000, guid: 2471bbe9557ef0d4fa49420a4a655951, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie79
+    second: {fileID: 2100000, guid: 96c0e39dbc1b6164b865ac5e9210d8ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie8
+    second: {fileID: 2100000, guid: 3082289a29d37a94ab3e6cd415062690, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie80
+    second: {fileID: 2100000, guid: 9cfd1174ff6dcab44ac1bf51e5505f10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie81
+    second: {fileID: 2100000, guid: 5bab2d60f3f0cb84585c321401befcd5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie82
+    second: {fileID: 2100000, guid: 98c22d3903567c34a97d26313763b363, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie83
+    second: {fileID: 2100000, guid: 59c76e68201d5ca48a25beaa28d2df49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie84
+    second: {fileID: 2100000, guid: ec46bbbfd5f7f8f40a6abb825fbc2b4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie85
+    second: {fileID: 2100000, guid: 3f51c12b0b2507a4aae2514c09424f81, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie86
+    second: {fileID: 2100000, guid: e06d54562d9d29248a33c9d6065179d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie87
+    second: {fileID: 2100000, guid: cecdf36acbbffb140b2f4de03912a99d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie88
+    second: {fileID: 2100000, guid: 9b793a600e70f124580b01e444e28e43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie89
+    second: {fileID: 2100000, guid: e156d14b1307b624793dace31da0ac13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie9
+    second: {fileID: 2100000, guid: 068da5ff5060f3846a060038f26e0f0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie90
+    second: {fileID: 2100000, guid: afeaf4389f103724990715eecf075653, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie91
+    second: {fileID: 2100000, guid: 876b42fd1d6329548933f3dd167c75c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie92
+    second: {fileID: 2100000, guid: 2bde68e1935654246a2ea2dfc7520ed9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie93
+    second: {fileID: 2100000, guid: 0e58c183a2137ca4185c4a74504e9feb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie94
+    second: {fileID: 2100000, guid: ff6ca976137c356498c3b1d50eb8e62a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie95
+    second: {fileID: 2100000, guid: 6aca0445b42e9b94da52e9c45985b249, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie96
+    second: {fileID: 2100000, guid: 357704363805f2949a51b92919e21112, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie97
+    second: {fileID: 2100000, guid: c9a0e481de053774fb170b153909da2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie98
+    second: {fileID: 2100000, guid: 0f3f7fbe88a54af419c6d406230e4219, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Medie99
+    second: {fileID: 2100000, guid: 0b3dda9c326864e419a33db6430bfe66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White_p0
+    second: {fileID: 2100000, guid: e044c8b1acbb69e4384585a9fb15dc8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White_p1
+    second: {fileID: 2100000, guid: d51553768cdb0704c8bbb149db84278f, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
